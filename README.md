@@ -8,7 +8,7 @@
   <img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-512.png" alt="react" width="45" height="45"/>
   <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/flutter-512.png" alt="flutter" width="45" height="45"/>
   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-512.pngg" alt="mongodb" width="45" height="45"/>
-  <img src="hhttps://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="firebase" width="45" height="45"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="firebase" width="45" height="45"/>
 </p>
 
 <!--

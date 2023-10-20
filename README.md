@@ -26,6 +26,8 @@ I'm studying at King Mongkut's Institute of Technology Ladkrabang.
 <a href="https://github.com/wannabuu" align="left"><img src="https://github-readme-stats.vercel.app/api?username=wannabuu&show_icons=true&hide_border=true&theme=transparent" height="215" /></a>
 <a href="https://github.com/wannabuu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wannabuu&layout=donut&text_color=417E87&bg_color=ffffff00&title_color=006AFF&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+![Snake animation](https://github.com/wannabuu/wannabuu/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **wannabuu/wannabuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

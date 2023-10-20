@@ -23,8 +23,8 @@ I'm studying at King Mongkut's Institute of Technology Ladkrabang.
 
 ### Badges
 
-<a href="https://github.com/wannabuu" align="left"><img src="https://github-readme-stats.vercel.app/api?username=wannabuu&show_icons=true&hide_border=false&theme=transparent" height="215" /></a>
-<a href="https://github.com/wannabuu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wannabuu&layout=donut&text_color=417E87&bg_color=ffffff00&title_color=006AFF&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/wannabuu" align="left"><img src="https://github-readme-stats.vercel.app/api?username=wannabuu&show_icons=true&hide_border=true&theme=transparent" height="215" /></a>
+<a href="https://github.com/wannabuu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wannabuu&layout=donut&text_color=417E87&bg_color=ffffff00&title_color=006AFF&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 <!--

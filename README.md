@@ -7,7 +7,7 @@ Computer Engineering Student
 I'm studying at King Mongkut's Institute of Technology Ladkrabang.
 
 * 🌍  I'm based in Bangkok, Thailand
-* ✉️  You can contact me at [Suppawith2905@gmail.com]
+* ✉️  You can contact me at [Suppawitbb@gmail.com]
 
 ### Tools
 <p align="left">
